@@ -30,4 +30,6 @@ body{
     animation-iteration-count: 2;
   }
   /*======================= first section done =====================*/
-  
+  .last{
+      margin-top: 20px;
+  }
